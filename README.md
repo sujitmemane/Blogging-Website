@@ -2,6 +2,8 @@
 # Simple Blogging Website
 This is a simple static website that serves as a blogging platform. The website is built using HTML and CSS, and it is designed to be easy to use and navigate. It allows users to read and write blog posts, as well as to share them on social media.
 
+# Demo
+Live at :https://blogsujitmemane.vercel.app/
 # Prerequisites
 To run this project, you will need a web browser such as Google Chrome or Mozilla Firefox.
 
